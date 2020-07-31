@@ -1,4 +1,5 @@
 # TO-DO
+![img](https://i.imgur.com/dIJRmuz.gif[/img])
 > [TO-DO Link](https://fahim9898.github.io/To-do/dist/index.html)
 
 ## Build Setup
